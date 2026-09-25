@@ -41,7 +41,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        chain: [praxis_nl]
+        chain: [bouwmaat_nl, hubo_nl]
     steps:
       - uses: actions/checkout@v4
         with:
