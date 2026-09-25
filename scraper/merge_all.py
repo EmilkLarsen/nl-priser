@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__))))
 from build_comparison import main as build_comparison  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CHAINS = ["praxis_nl"]
+CHAINS = ["bouwmaat_nl", "hubo_nl"]
 LATEST = os.path.join(ROOT, "data", "latest")
 
 
