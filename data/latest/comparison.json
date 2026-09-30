@@ -1,1 +1,86 @@
-[]
+[
+ {
+  "key": "ean:8711283413228",
+  "name": "Afdeklijst Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 5.51,
+   "hubo_nl": 10.09
+  },
+  "min": 5.51,
+  "max": 10.09,
+  "spread_pct": 83.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332227172",
+  "name": "Q-Link Siliconen Kabel Hittebestendig Rood/Bruin 3x0,75 mm2",
+  "prices": {
+   "bouwmaat_nl": 33.69,
+   "hubo_nl": 44.99
+  },
+  "min": 33.69,
+  "max": 44.99,
+  "spread_pct": 33.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422000166",
+  "name": "Martens PVC Bocht Lijmmof/spie 3,2mm 45°",
+  "prices": {
+   "bouwmaat_nl": 0.71,
+   "hubo_nl": 0.89
+  },
+  "min": 0.71,
+  "max": 0.89,
+  "spread_pct": 25.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422000500",
+  "name": "Martens PVC Bocht 2x Lijmmof 3,2mm 45°",
+  "prices": {
+   "bouwmaat_nl": 2.59,
+   "hubo_nl": 3.19
+  },
+  "min": 2.59,
+  "max": 3.19,
+  "spread_pct": 23.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422000456",
+  "name": "Martens PVC Bocht 2x Lijmmof 3,2mm 90°",
+  "prices": {
+   "bouwmaat_nl": 0.74,
+   "hubo_nl": 0.89
+  },
+  "min": 0.74,
+  "max": 0.89,
+  "spread_pct": 20.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422009763",
+  "name": "Martens PVC Hemelwaterafvoerbuis Wanddikte 1,5mm",
+  "prices": {
+   "bouwmaat_nl": 19.0,
+   "hubo_nl": 21.49
+  },
+  "min": 19.0,
+  "max": 21.49,
+  "spread_pct": 13.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422009992",
+  "name": "Martens PVC HWA T-stuk 2x Mof/verjonging Spie-eind 87°",
+  "prices": {
+   "bouwmaat_nl": 3.83,
+   "hubo_nl": 4.29
+  },
+  "min": 3.83,
+  "max": 4.29,
+  "spread_pct": 12.0,
+  "match": "exact"
+ }
+]
