@@ -11,13 +11,13 @@ from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LATEST = os.path.join(ROOT, "data", "latest")
-CHAINS = ["praxis_nl"]
+CHAINS = ['bouwmaat_nl', 'hubo_nl']
 
 # known catalog sizes (approximate, from verified sources) — a chain whose
 # snapshot holds <60% of this is treated as incomplete even with a marker
-# Verified real catalog sizes (from completed production runs):
 EXPECTED = {
-    "praxis_nl": 5000
+    "bouwmaat_nl": 52330,
+    "hubo_nl": 15942
 }
 
 
@@ -39,7 +39,7 @@ def main():
             incomplete.append(chain)
     json.dump({"date": today, "detail": detail},
               open(os.path.join(LATEST, "completion.json"), "w"), indent=1)
-    print("incomplete:", ",".join(incomplete) if incomplete else "(none)")
+    print("incomplete:", ", ".join(incomplete) if incomplete else "(none)")
     sys.exit(2 if incomplete else 0)
 
 
