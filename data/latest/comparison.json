@@ -1,5 +1,161 @@
 [
  {
+  "key": "ean:8711283422411",
+  "name": "Kwartrond Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 2.89,
+   "hubo_nl": 10.49
+  },
+  "min": 2.89,
+  "max": 10.49,
+  "spread_pct": 263.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711481369822",
+  "name": "Stoelhoek Verzinkt 4st",
+  "prices": {
+   "bouwmaat_nl": 0.69,
+   "hubo_nl": 1.59
+  },
+  "min": 0.69,
+  "max": 1.59,
+  "spread_pct": 130.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711481369891",
+  "name": "Versterkingshoek Verzinkt",
+  "prices": {
+   "bouwmaat_nl": 1.86,
+   "hubo_nl": 4.19
+  },
+  "min": 1.86,
+  "max": 4.19,
+  "spread_pct": 125.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283452647",
+  "name": "Afdeklijst Grenen Zwart Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 6.0,
+   "hubo_nl": 13.49
+  },
+  "min": 6.0,
+  "max": 13.49,
+  "spread_pct": 124.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283317359",
+  "name": "Schaaflat Hardhout FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 2.99,
+   "hubo_nl": 6.39
+  },
+  "min": 2.99,
+  "max": 6.39,
+  "spread_pct": 113.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413266",
+  "name": "Koplat Schuin Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 9.94,
+   "hubo_nl": 20.59
+  },
+  "min": 9.94,
+  "max": 20.59,
+  "spread_pct": 107.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283081588",
+  "name": "Plint MDF Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 3.64,
+   "hubo_nl": 7.49
+  },
+  "min": 3.64,
+  "max": 7.49,
+  "spread_pct": 105.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283024073",
+  "name": "U-profiel Kunststof Wit",
+  "prices": {
+   "bouwmaat_nl": 2.78,
+   "hubo_nl": 5.59
+  },
+  "min": 2.78,
+  "max": 5.59,
+  "spread_pct": 101.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332233043",
+  "name": "Jung Afdekraam AS500 Inbouw 2-Voudig Polarwit",
+  "prices": {
+   "bouwmaat_nl": 3.78,
+   "hubo_nl": 7.49
+  },
+  "min": 3.78,
+  "max": 7.49,
+  "spread_pct": 98.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283373171",
+  "name": "Koplat Schuin MDF Folie Wit 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 5.47,
+   "hubo_nl": 10.29
+  },
+  "min": 5.47,
+  "max": 10.29,
+  "spread_pct": 88.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8714318006976",
+  "name": "GB Hoekanker Verzinkt",
+  "prices": {
+   "bouwmaat_nl": 2.19,
+   "hubo_nl": 4.09
+  },
+  "min": 2.19,
+  "max": 4.09,
+  "spread_pct": 86.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283127637",
+  "name": "Schaaflat Vuren 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 3.16,
+   "hubo_nl": 5.89
+  },
+  "min": 3.16,
+  "max": 5.89,
+  "spread_pct": 86.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283035970",
+  "name": "Afdekprofiel Kunststof Wit",
+  "prices": {
+   "bouwmaat_nl": 4.07,
+   "hubo_nl": 7.49
+  },
+  "min": 4.07,
+  "max": 7.49,
+  "spread_pct": 84.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711283413228",
   "name": "Afdeklijst Grenen Wit Gelakt FSC Mix 70%",
   "prices": {
@@ -9,6 +165,330 @@
   "min": 5.51,
   "max": 10.09,
   "spread_pct": 83.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8712457285238",
+  "name": "Bleko Verf & Allesreiniger",
+  "prices": {
+   "bouwmaat_nl": 3.45,
+   "hubo_nl": 6.19
+  },
+  "min": 3.45,
+  "max": 6.19,
+  "spread_pct": 79.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413181",
+  "name": "Kwartrond Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 6.48,
+   "hubo_nl": 11.49
+  },
+  "min": 6.48,
+  "max": 11.49,
+  "spread_pct": 77.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8718734416777",
+  "name": "ProLine Gold Schuurpapier Nat En Droog 230x280mm",
+  "prices": {
+   "bouwmaat_nl": 2.17,
+   "hubo_nl": 3.79
+  },
+  "min": 2.17,
+  "max": 3.79,
+  "spread_pct": 74.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283406688",
+  "name": "Neuslat Hardhout Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 23.02,
+   "hubo_nl": 40.19
+  },
+  "min": 23.02,
+  "max": 40.19,
+  "spread_pct": 74.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283324937",
+  "name": "Afdeklijst MDF Folie Zelfklevend Wit 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 4.19,
+   "hubo_nl": 7.29
+  },
+  "min": 4.19,
+  "max": 7.29,
+  "spread_pct": 74.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8718734416807",
+  "name": "ProLine Gold Schuurspons Soft Pad 120x98x13mm",
+  "prices": {
+   "bouwmaat_nl": 1.95,
+   "hubo_nl": 3.29
+  },
+  "min": 1.95,
+  "max": 3.29,
+  "spread_pct": 68.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8718734416692",
+  "name": "ProLine Gold Schuurgaas 115x280mm",
+  "prices": {
+   "bouwmaat_nl": 1.79,
+   "hubo_nl": 2.99
+  },
+  "min": 1.79,
+  "max": 2.99,
+  "spread_pct": 67.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8718734416715",
+  "name": "ProLine Gold Schuurvlies 115x280mm",
+  "prices": {
+   "bouwmaat_nl": 1.62,
+   "hubo_nl": 2.69
+  },
+  "min": 1.62,
+  "max": 2.69,
+  "spread_pct": 66.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8714318015183",
+  "name": "GB Koppelplaat Verzinkt",
+  "prices": {
+   "bouwmaat_nl": 1.44,
+   "hubo_nl": 2.39
+  },
+  "min": 1.44,
+  "max": 2.39,
+  "spread_pct": 66.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283405933",
+  "name": "Afdekprofiel Kunststof Zelfklevend Wit",
+  "prices": {
+   "bouwmaat_nl": 10.18,
+   "hubo_nl": 16.89
+  },
+  "min": 10.18,
+  "max": 16.89,
+  "spread_pct": 65.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283129532",
+  "name": "Schaaflat Grenen 2700mm 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 2.92,
+   "hubo_nl": 4.79
+  },
+  "min": 2.92,
+  "max": 4.79,
+  "spread_pct": 64.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413303",
+  "name": "Hoeklat Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 15.57,
+   "hubo_nl": 25.29
+  },
+  "min": 15.57,
+  "max": 25.29,
+  "spread_pct": 62.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283400860",
+  "name": "Schaaflat Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 4.3,
+   "hubo_nl": 6.79
+  },
+  "min": 4.3,
+  "max": 6.79,
+  "spread_pct": 57.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283047263",
+  "name": "Hoekprofiel Kunststof Wit",
+  "prices": {
+   "bouwmaat_nl": 7.14,
+   "hubo_nl": 11.19
+  },
+  "min": 7.14,
+  "max": 11.19,
+  "spread_pct": 56.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283101323",
+  "name": "Ronde Stok Grenen 2700mm 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 22.31,
+   "hubo_nl": 34.59
+  },
+  "min": 22.31,
+  "max": 34.59,
+  "spread_pct": 55.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283324968",
+  "name": "Hoeklat MDF Folie Zelfklevend Wit 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 8.82,
+   "hubo_nl": 13.49
+  },
+  "min": 8.82,
+  "max": 13.49,
+  "spread_pct": 52.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332438301",
+  "name": "Q-Link RVS Schroef Inbouwdoos DIN963",
+  "prices": {
+   "bouwmaat_nl": 1.32,
+   "hubo_nl": 1.99
+  },
+  "min": 1.32,
+  "max": 1.99,
+  "spread_pct": 50.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422261048",
+  "name": "Martens Verloopstuk PVC Inwendig",
+  "prices": {
+   "bouwmaat_nl": 3.31,
+   "hubo_nl": 4.89
+  },
+  "min": 3.31,
+  "max": 4.89,
+  "spread_pct": 47.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413273",
+  "name": "Koplat Recht Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 11.25,
+   "hubo_nl": 16.49
+  },
+  "min": 11.25,
+  "max": 16.49,
+  "spread_pct": 46.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4006379043750",
+  "name": "Knauf Stuc-Primer Geel Zuigende Ondergrond",
+  "prices": {
+   "bouwmaat_nl": 23.69,
+   "hubo_nl": 34.49
+  },
+  "min": 23.69,
+  "max": 34.49,
+  "spread_pct": 45.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283425221",
+  "name": "Afdekprofiel Kunststof Zelfklevend Zwart",
+  "prices": {
+   "bouwmaat_nl": 5.98,
+   "hubo_nl": 8.69
+  },
+  "min": 5.98,
+  "max": 8.69,
+  "spread_pct": 45.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8714318006983",
+  "name": "GB Hoekanker Met Ril Verzinkt",
+  "prices": {
+   "bouwmaat_nl": 2.18,
+   "hubo_nl": 3.09
+  },
+  "min": 2.18,
+  "max": 3.09,
+  "spread_pct": 41.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283408200",
+  "name": "Deurlijst Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 19.62,
+   "hubo_nl": 27.29
+  },
+  "min": 19.62,
+  "max": 27.29,
+  "spread_pct": 39.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332003257",
+  "name": "Q-link Kabel Rubbel Zwart",
+  "prices": {
+   "bouwmaat_nl": 32.44,
+   "hubo_nl": 44.99
+  },
+  "min": 32.44,
+  "max": 44.99,
+  "spread_pct": 38.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8714318004170",
+  "name": "GB Balkdrager Verzinkt Lange Lip",
+  "prices": {
+   "bouwmaat_nl": 4.4,
+   "hubo_nl": 6.09
+  },
+  "min": 4.4,
+  "max": 6.09,
+  "spread_pct": 38.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332136818",
+  "name": "Berker Contactdoos Opbouw 1-Voudig Polarwit Randaarde",
+  "prices": {
+   "bouwmaat_nl": 7.26,
+   "hubo_nl": 9.79
+  },
+  "min": 7.26,
+  "max": 9.79,
+  "spread_pct": 34.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4048962239898",
+  "name": "fischer Duopower Universele Plug Met Spaanplaatschroef",
+  "prices": {
+   "bouwmaat_nl": 17.52,
+   "hubo_nl": 23.49
+  },
+  "min": 17.52,
+  "max": 23.49,
+  "spread_pct": 34.1,
   "match": "exact"
  },
  {
@@ -24,6 +504,66 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283392066",
+  "name": "Sierlijst Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 10.58,
+   "hubo_nl": 14.09
+  },
+  "min": 10.58,
+  "max": 14.09,
+  "spread_pct": 33.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283425153",
+  "name": "Hoekprofiel Kunststof Zelfklevend Wit",
+  "prices": {
+   "bouwmaat_nl": 5.37,
+   "hubo_nl": 7.09
+  },
+  "min": 5.37,
+  "max": 7.09,
+  "spread_pct": 32.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413259",
+  "name": "Decorlijst Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 14.14,
+   "hubo_nl": 18.59
+  },
+  "min": 14.14,
+  "max": 18.59,
+  "spread_pct": 31.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283406039",
+  "name": "Koplat Schuin Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 9.36,
+   "hubo_nl": 12.09
+  },
+  "min": 9.36,
+  "max": 12.09,
+  "spread_pct": 29.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4048962239928",
+  "name": "fischer Duopower Universele Plug Met Cilinderkopschroef",
+  "prices": {
+   "bouwmaat_nl": 13.18,
+   "hubo_nl": 16.99
+  },
+  "min": 13.18,
+  "max": 16.99,
+  "spread_pct": 28.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711422000166",
   "name": "Martens PVC Bocht Lijmmof/spie 3,2mm 45°",
   "prices": {
@@ -33,6 +573,18 @@
   "min": 0.71,
   "max": 0.89,
   "spread_pct": 25.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4048962239836",
+  "name": "fischer Duopower Universele Plug",
+  "prices": {
+   "bouwmaat_nl": 8.39,
+   "hubo_nl": 10.39
+  },
+  "min": 8.39,
+  "max": 10.39,
+  "spread_pct": 23.8,
   "match": "exact"
  },
  {
@@ -48,6 +600,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283405988",
+  "name": "Hoeklat Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 23.14,
+   "hubo_nl": 28.29
+  },
+  "min": 23.14,
+  "max": 28.29,
+  "spread_pct": 22.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422007431",
+  "name": "Martens PVC HWA Bocht Mof/Verjonging Spie-eind 45°",
+  "prices": {
+   "bouwmaat_nl": 2.04,
+   "hubo_nl": 2.49
+  },
+  "min": 2.04,
+  "max": 2.49,
+  "spread_pct": 22.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711422000456",
   "name": "Martens PVC Bocht 2x Lijmmof 3,2mm 90°",
   "prices": {
@@ -57,6 +633,90 @@
   "min": 0.74,
   "max": 0.89,
   "spread_pct": 20.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4003530245664",
+  "name": "SPAX Tellerkopschroef Verzinkt DK Deeldraad T40 50st",
+  "prices": {
+   "bouwmaat_nl": 23.57,
+   "hubo_nl": 27.99
+  },
+  "min": 23.57,
+  "max": 27.99,
+  "spread_pct": 18.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332003639",
+  "name": "Q-Link Grondkabel XVMK-AS Grijs",
+  "prices": {
+   "bouwmaat_nl": 76.79,
+   "hubo_nl": 90.99
+  },
+  "min": 76.79,
+  "max": 90.99,
+  "spread_pct": 18.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4006209503515",
+  "name": "fischer Nagelplug N",
+  "prices": {
+   "bouwmaat_nl": 14.07,
+   "hubo_nl": 16.59
+  },
+  "min": 14.07,
+  "max": 16.59,
+  "spread_pct": 17.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422007462",
+  "name": "Martens PVC HWA Bocht Mof/Verjonging Spie-eind 87°",
+  "prices": {
+   "bouwmaat_nl": 2.34,
+   "hubo_nl": 2.69
+  },
+  "min": 2.34,
+  "max": 2.69,
+  "spread_pct": 15.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332115523",
+  "name": "Q-link Aansluitsnoer Neopreen H07RN-F Zwart 5m",
+  "prices": {
+   "bouwmaat_nl": 13.14,
+   "hubo_nl": 14.99
+  },
+  "min": 13.14,
+  "max": 14.99,
+  "spread_pct": 14.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422101573",
+  "name": "Martens vullijm voor PVC KOMO-keur",
+  "prices": {
+   "bouwmaat_nl": 8.16,
+   "hubo_nl": 9.29
+  },
+  "min": 8.16,
+  "max": 9.29,
+  "spread_pct": 13.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283392950",
+  "name": "Koplat Recht Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 10.19,
+   "hubo_nl": 11.59
+  },
+  "min": 10.19,
+  "max": 11.59,
+  "spread_pct": 13.7,
   "match": "exact"
  },
  {
@@ -72,6 +732,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283392042",
+  "name": "Hollat Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 8.51,
+   "hubo_nl": 9.59
+  },
+  "min": 8.51,
+  "max": 9.59,
+  "spread_pct": 12.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711422009992",
   "name": "Martens PVC HWA T-stuk 2x Mof/verjonging Spie-eind 87°",
   "prices": {
@@ -81,6 +753,54 @@
   "min": 3.83,
   "max": 4.29,
   "spread_pct": 12.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:0036296134020",
+  "name": "Toggler Alligator Plug Met Flens Nylon 40st",
+  "prices": {
+   "bouwmaat_nl": 10.16,
+   "hubo_nl": 10.99
+  },
+  "min": 10.16,
+  "max": 10.99,
+  "spread_pct": 8.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422009961",
+  "name": "Martens PVC HWA T-stuk 2x Mof/verjonging Spie-eind 45°",
+  "prices": {
+   "bouwmaat_nl": 3.5,
+   "hubo_nl": 3.69
+  },
+  "min": 3.5,
+  "max": 3.69,
+  "spread_pct": 5.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711422000197",
+  "name": "Martens PVC Bocht Lijmmof/spie 3,2mm 90°",
+  "prices": {
+   "bouwmaat_nl": 0.94,
+   "hubo_nl": 0.99
+  },
+  "min": 0.94,
+  "max": 0.99,
+  "spread_pct": 5.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332136825",
+  "name": "Berker Contactdoos Opbouw 2-Voudig Randaarde Polarwit",
+  "prices": {
+   "bouwmaat_nl": 12.74,
+   "hubo_nl": 12.99
+  },
+  "min": 12.74,
+  "max": 12.99,
+  "spread_pct": 2.0,
   "match": "exact"
  }
 ]
