@@ -1,8 +1,12 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "detail": {
-  "praxis_nl": {
-   "rows": 0,
+  "bouwmaat_nl": {
+   "rows": 200,
+   "complete": false
+  },
+  "hubo_nl": {
+   "rows": 15942,
    "complete": false
   }
  }
