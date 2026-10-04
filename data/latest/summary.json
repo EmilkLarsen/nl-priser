@@ -3,11 +3,11 @@
  "total_rows": 64376,
  "chains": {
   "hubo_nl": {
-   "products": 15946,
-   "price_changes": 3,
+   "products": 12006,
+   "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 19044.3
+   "seconds": 18014.3
   },
   "bouwmaat_nl": {
    "products": 52250,
