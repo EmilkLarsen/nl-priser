@@ -444,18 +444,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711332003257",
-  "name": "Q-link Kabel Rubbel Zwart",
-  "prices": {
-   "bouwmaat_nl": 32.44,
-   "hubo_nl": 44.99
-  },
-  "min": 32.44,
-  "max": 44.99,
-  "spread_pct": 38.7,
-  "match": "exact"
- },
- {
   "key": "ean:8714318004170",
   "name": "GB Balkdrager Verzinkt Lange Lip",
   "prices": {
@@ -465,6 +453,18 @@
   "min": 4.4,
   "max": 6.09,
   "spread_pct": 38.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332003257",
+  "name": "Q-link Kabel Rubbel Zwart",
+  "prices": {
+   "bouwmaat_nl": 33.28,
+   "hubo_nl": 44.99
+  },
+  "min": 33.28,
+  "max": 44.99,
+  "spread_pct": 35.2,
   "match": "exact"
  },
  {
@@ -489,18 +489,6 @@
   "min": 17.52,
   "max": 23.49,
   "spread_pct": 34.1,
-  "match": "exact"
- },
- {
-  "key": "ean:8711332227172",
-  "name": "Q-Link Siliconen Kabel Hittebestendig Rood/Bruin 3x0,75 mm2",
-  "prices": {
-   "bouwmaat_nl": 33.69,
-   "hubo_nl": 44.99
-  },
-  "min": 33.69,
-  "max": 44.99,
-  "spread_pct": 33.5,
   "match": "exact"
  },
  {
@@ -537,6 +525,18 @@
   "min": 14.14,
   "max": 18.59,
   "spread_pct": 31.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332227172",
+  "name": "Q-Link Siliconen Kabel Hittebestendig Rood/Bruin 3x0,75 mm2",
+  "prices": {
+   "bouwmaat_nl": 34.36,
+   "hubo_nl": 44.99
+  },
+  "min": 34.36,
+  "max": 44.99,
+  "spread_pct": 30.9,
   "match": "exact"
  },
  {
@@ -648,18 +648,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711332003639",
-  "name": "Q-Link Grondkabel XVMK-AS Grijs",
-  "prices": {
-   "bouwmaat_nl": 76.79,
-   "hubo_nl": 90.99
-  },
-  "min": 76.79,
-  "max": 90.99,
-  "spread_pct": 18.5,
-  "match": "exact"
- },
- {
   "key": "ean:4006209503515",
   "name": "fischer Nagelplug N",
   "prices": {
@@ -681,6 +669,18 @@
   "min": 2.34,
   "max": 2.69,
   "spread_pct": 15.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711332003639",
+  "name": "Q-Link Grondkabel XVMK-AS Grijs",
+  "prices": {
+   "bouwmaat_nl": 79.32,
+   "hubo_nl": 90.99
+  },
+  "min": 79.32,
+  "max": 90.99,
+  "spread_pct": 14.7,
   "match": "exact"
  },
  {
