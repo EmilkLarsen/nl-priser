@@ -1,13 +1,13 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "detail": {
   "bouwmaat_nl": {
    "rows": 48434,
-   "complete": true
+   "complete": false
   },
   "hubo_nl": {
-   "rows": 15942,
-   "complete": false
+   "rows": 15950,
+   "complete": true
   }
  }
 }
