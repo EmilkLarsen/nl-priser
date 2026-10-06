@@ -12,6 +12,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283452647",
+  "name": "Afdeklijst Grenen Zwart Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 6.0,
+   "hubo_nl": 16.29
+  },
+  "min": 6.0,
+  "max": 16.29,
+  "spread_pct": 171.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711481369822",
   "name": "Stoelhoek Verzinkt 4st",
   "prices": {
@@ -36,18 +48,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283452647",
-  "name": "Afdeklijst Grenen Zwart Gelakt FSC Mix 70%",
-  "prices": {
-   "bouwmaat_nl": 6.0,
-   "hubo_nl": 13.49
-  },
-  "min": 6.0,
-  "max": 13.49,
-  "spread_pct": 124.8,
-  "match": "exact"
- },
- {
   "key": "ean:8711283317359",
   "name": "Schaaflat Hardhout FSC Mix 70%",
   "prices": {
@@ -57,6 +57,18 @@
   "min": 2.99,
   "max": 6.39,
   "spread_pct": 113.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283413228",
+  "name": "Afdeklijst Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 5.51,
+   "hubo_nl": 11.49
+  },
+  "min": 5.51,
+  "max": 11.49,
+  "spread_pct": 108.5,
   "match": "exact"
  },
  {
@@ -96,6 +108,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283413303",
+  "name": "Hoeklat Grenen Wit Gelakt FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 15.57,
+   "hubo_nl": 31.29
+  },
+  "min": 15.57,
+  "max": 31.29,
+  "spread_pct": 101.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711332233043",
   "name": "Jung Afdekraam AS500 Inbouw 2-Voudig Polarwit",
   "prices": {
@@ -105,6 +129,30 @@
   "min": 3.78,
   "max": 7.49,
   "spread_pct": 98.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283035970",
+  "name": "Afdekprofiel Kunststof Wit",
+  "prices": {
+   "bouwmaat_nl": 4.07,
+   "hubo_nl": 7.69
+  },
+  "min": 4.07,
+  "max": 7.69,
+  "spread_pct": 88.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283405933",
+  "name": "Afdekprofiel Kunststof Zelfklevend Wit",
+  "prices": {
+   "bouwmaat_nl": 10.18,
+   "hubo_nl": 19.19
+  },
+  "min": 10.18,
+  "max": 19.19,
+  "spread_pct": 88.5,
   "match": "exact"
  },
  {
@@ -144,30 +192,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283035970",
-  "name": "Afdekprofiel Kunststof Wit",
-  "prices": {
-   "bouwmaat_nl": 4.07,
-   "hubo_nl": 7.49
-  },
-  "min": 4.07,
-  "max": 7.49,
-  "spread_pct": 84.0,
-  "match": "exact"
- },
- {
-  "key": "ean:8711283413228",
-  "name": "Afdeklijst Grenen Wit Gelakt FSC Mix 70%",
-  "prices": {
-   "bouwmaat_nl": 5.51,
-   "hubo_nl": 10.09
-  },
-  "min": 5.51,
-  "max": 10.09,
-  "spread_pct": 83.1,
-  "match": "exact"
- },
- {
   "key": "ean:8712457285238",
   "name": "Bleko Verf & Allesreiniger",
   "prices": {
@@ -180,6 +204,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8711283324937",
+  "name": "Afdeklijst MDF Folie Zelfklevend Wit 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 4.19,
+   "hubo_nl": 7.49
+  },
+  "min": 4.19,
+  "max": 7.49,
+  "spread_pct": 78.8,
+  "match": "exact"
+ },
+ {
   "key": "ean:8711283413181",
   "name": "Kwartrond Grenen Wit Gelakt FSC Mix 70%",
   "prices": {
@@ -189,6 +225,18 @@
   "min": 6.48,
   "max": 11.49,
   "spread_pct": 77.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283324968",
+  "name": "Hoeklat MDF Folie Zelfklevend Wit 70% PEFC",
+  "prices": {
+   "bouwmaat_nl": 8.82,
+   "hubo_nl": 15.59
+  },
+  "min": 8.82,
+  "max": 15.59,
+  "spread_pct": 76.8,
   "match": "exact"
  },
  {
@@ -216,15 +264,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283324937",
-  "name": "Afdeklijst MDF Folie Zelfklevend Wit 70% PEFC",
+  "key": "ean:8711283408200",
+  "name": "Deurlijst Grenen Wit Gegrond FSC Mix 70%",
   "prices": {
-   "bouwmaat_nl": 4.19,
-   "hubo_nl": 7.29
+   "bouwmaat_nl": 19.62,
+   "hubo_nl": 33.49
   },
-  "min": 4.19,
-  "max": 7.29,
-  "spread_pct": 74.0,
+  "min": 19.62,
+  "max": 33.49,
+  "spread_pct": 70.7,
   "match": "exact"
  },
  {
@@ -276,15 +324,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283405933",
-  "name": "Afdekprofiel Kunststof Zelfklevend Wit",
+  "key": "ean:8711283425221",
+  "name": "Afdekprofiel Kunststof Zelfklevend Zwart",
   "prices": {
-   "bouwmaat_nl": 10.18,
-   "hubo_nl": 16.89
+   "bouwmaat_nl": 5.98,
+   "hubo_nl": 9.89
   },
-  "min": 10.18,
-  "max": 16.89,
-  "spread_pct": 65.9,
+  "min": 5.98,
+  "max": 9.89,
+  "spread_pct": 65.4,
   "match": "exact"
  },
  {
@@ -300,15 +348,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283413303",
-  "name": "Hoeklat Grenen Wit Gelakt FSC Mix 70%",
+  "key": "ean:8711283413259",
+  "name": "Decorlijst Grenen Wit Gelakt FSC Mix 70%",
   "prices": {
-   "bouwmaat_nl": 15.57,
-   "hubo_nl": 25.29
+   "bouwmaat_nl": 14.14,
+   "hubo_nl": 22.49
   },
-  "min": 15.57,
-  "max": 25.29,
-  "spread_pct": 62.4,
+  "min": 14.14,
+  "max": 22.49,
+  "spread_pct": 59.1,
   "match": "exact"
  },
  {
@@ -348,18 +396,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283324968",
-  "name": "Hoeklat MDF Folie Zelfklevend Wit 70% PEFC",
-  "prices": {
-   "bouwmaat_nl": 8.82,
-   "hubo_nl": 13.49
-  },
-  "min": 8.82,
-  "max": 13.49,
-  "spread_pct": 52.9,
-  "match": "exact"
- },
- {
   "key": "ean:8711332438301",
   "name": "Q-Link RVS Schroef Inbouwdoos DIN963",
   "prices": {
@@ -369,6 +405,18 @@
   "min": 1.32,
   "max": 1.99,
   "spread_pct": 50.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8711283405988",
+  "name": "Hoeklat Grenen Wit Gegrond FSC Mix 70%",
+  "prices": {
+   "bouwmaat_nl": 23.14,
+   "hubo_nl": 34.59
+  },
+  "min": 23.14,
+  "max": 34.59,
+  "spread_pct": 49.5,
   "match": "exact"
  },
  {
@@ -408,18 +456,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283425221",
-  "name": "Afdekprofiel Kunststof Zelfklevend Zwart",
-  "prices": {
-   "bouwmaat_nl": 5.98,
-   "hubo_nl": 8.69
-  },
-  "min": 5.98,
-  "max": 8.69,
-  "spread_pct": 45.3,
-  "match": "exact"
- },
- {
   "key": "ean:8714318006983",
   "name": "GB Hoekanker Met Ril Verzinkt",
   "prices": {
@@ -429,18 +465,6 @@
   "min": 2.18,
   "max": 3.09,
   "spread_pct": 41.7,
-  "match": "exact"
- },
- {
-  "key": "ean:8711283408200",
-  "name": "Deurlijst Grenen Wit Gegrond FSC Mix 70%",
-  "prices": {
-   "bouwmaat_nl": 19.62,
-   "hubo_nl": 27.29
-  },
-  "min": 19.62,
-  "max": 27.29,
-  "spread_pct": 39.1,
   "match": "exact"
  },
  {
@@ -516,18 +540,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:8711283413259",
-  "name": "Decorlijst Grenen Wit Gelakt FSC Mix 70%",
-  "prices": {
-   "bouwmaat_nl": 14.14,
-   "hubo_nl": 18.59
-  },
-  "min": 14.14,
-  "max": 18.59,
-  "spread_pct": 31.5,
-  "match": "exact"
- },
- {
   "key": "ean:8711332227172",
   "name": "Q-Link Siliconen Kabel Hittebestendig Rood/Bruin 3x0,75 mm2",
   "prices": {
@@ -597,18 +609,6 @@
   "min": 2.59,
   "max": 3.19,
   "spread_pct": 23.2,
-  "match": "exact"
- },
- {
-  "key": "ean:8711283405988",
-  "name": "Hoeklat Grenen Wit Gegrond FSC Mix 70%",
-  "prices": {
-   "bouwmaat_nl": 23.14,
-   "hubo_nl": 28.29
-  },
-  "min": 23.14,
-  "max": 28.29,
-  "spread_pct": 22.3,
   "match": "exact"
  },
  {
