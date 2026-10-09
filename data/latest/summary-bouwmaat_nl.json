@@ -2,11 +2,11 @@
  "date": "2026-10-09",
  "chains": {
   "bouwmaat_nl": {
-   "products": 24023,
+   "products": 35033,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18002.0
+   "seconds": 18060.6
   }
  }
 }
