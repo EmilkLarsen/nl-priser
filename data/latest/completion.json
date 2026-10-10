@@ -2,8 +2,8 @@
  "date": "2026-10-10",
  "detail": {
   "bouwmaat_nl": {
-   "rows": 48470,
-   "complete": false
+   "rows": 48472,
+   "complete": true
   },
   "hubo_nl": {
    "rows": 15965,
