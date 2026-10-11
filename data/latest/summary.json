@@ -1,20 +1,20 @@
 {
- "date": "2026-10-10",
+ "date": "2026-10-11",
  "total_rows": 64437,
  "chains": {
   "hubo_nl": {
-   "products": 11936,
-   "price_changes": 0,
+   "products": 15941,
+   "price_changes": 3,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18000.6
+   "seconds": 5937.2
   },
   "bouwmaat_nl": {
-   "products": 36787,
+   "products": 49075,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18013.1
+   "seconds": 18039.4
   }
  }
 }
