@@ -2,7 +2,7 @@
  "date": "2026-10-13",
  "chains": {
   "bouwmaat_nl": {
-   "error": "collapse guard: 12198 rows vs 48476 before",
+   "error": "collapse guard: 0 rows vs 48476 before",
    "kept_previous": true
   }
  }
