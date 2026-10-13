@@ -10,11 +10,8 @@
    "seconds": 18000.4
   },
   "bouwmaat_nl": {
-   "products": 12198,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18053.8
+   "error": "collapse guard: 12198 rows vs 48476 before",
+   "kept_previous": true
   }
  }
 }
