@@ -1,12 +1,12 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "chains": {
   "hubo_nl": {
-   "products": 10593,
-   "price_changes": 0,
+   "products": 15942,
+   "price_changes": 3,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18000.9
+   "seconds": 7981.0
   }
  }
 }
