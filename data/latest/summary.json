@@ -7,10 +7,10 @@
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 18000.4
+   "seconds": 188.2
   },
   "bouwmaat_nl": {
-   "error": "collapse guard: 12198 rows vs 48476 before",
+   "error": "collapse guard: 0 rows vs 48476 before",
    "kept_previous": true
   }
  }
