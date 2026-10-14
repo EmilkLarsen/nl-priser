@@ -18,15 +18,26 @@ OUT = "data/latest/bouwmaat_nl.jsonl"
 
 
 def fetch_url_list(limit=None):
+    # 2026-10-14: CI's IP was blocked on the sitemap fetch and EVERY failure
+    # here was swallowed (bare except: continue) -> empty url list ->
+    # scrape_with_checkpoint reported "full catalog covered (0 rows)" in
+    # seconds - green job, no data, nights of silent churn. A discovery
+    # failure is never a clean end-of-chunks signal for this shape: raise.
     idx = get(f"{BASE}/sitemap.xml")
     prod_maps = [m for m in re.findall(r"<loc>([^<]+)</loc>", idx)
                  if "sitemap_products_" in m]
+    if not prod_maps:
+        raise RuntimeError(
+            f"bouwmaat_nl discovery: {BASE}/sitemap.xml returned no "
+            f"sitemap_products_* locs (blocked, moved, or markup changed)")
     urls = []
     seen = set()
+    failed = 0
     for pm in prod_maps:
         try:
             xml = get(pm)
         except Exception:
+            failed += 1
             continue
         for u in re.findall(r"<loc>([^<]+)</loc>", xml):
             u = u.strip()
@@ -36,6 +47,11 @@ def fetch_url_list(limit=None):
             urls.append(u)
         if limit and len(urls) >= limit:
             break
+    if not urls and failed:
+        raise RuntimeError(
+            f"bouwmaat_nl discovery: all {failed}/{len(prod_maps)} product "
+            f"sitemaps failed to fetch - CI IP likely blocked, not raising "
+            f"silently as an empty catalog")
     return urls[:limit] if limit else urls
 
 
