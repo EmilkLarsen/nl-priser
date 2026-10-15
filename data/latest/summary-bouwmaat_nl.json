@@ -1,9 +1,8 @@
 {
- "date": "2026-10-14",
+ "date": "2026-10-15",
  "chains": {
   "bouwmaat_nl": {
-   "error": "collapse guard: 0 rows vs 48476 before",
-   "kept_previous": true
+   "error": "RuntimeError: bouwmaat_nl discovery: all 55/55 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
   }
  }
 }
