@@ -33,7 +33,10 @@ MAX_AGE_DAYS = 3
 # stale-exemption branch below can never NameError (bit every non-dk/fi/uk
 # repo live 2026-10-15: check_stale crashed, continue-check failed, healer
 # churned every night)
-KNOWN_BLOCKED = set()
+# Both nl chains verified DC-IP-walled 2026-10-18 (bouwmaat at the sitemap
+# fetch, hubo at product pages - both serve real content to residential
+# IPs). Retried nightly, never alerted - pending Emil's proxy decision.
+KNOWN_BLOCKED = {"bouwmaat_nl", "hubo_nl"}
 
 
 def discover_chains():
@@ -77,6 +80,9 @@ def main():
             ckpt_legacy = os.path.join(LATEST, f".checkpoint-{chain}.jsonl")
             if os.path.exists(ckpt_legacy):
                 print(f"  {chain}: checkpoint build in progress (no marker yet) - not stale")
+                continue
+            if chain in KNOWN_BLOCKED:
+                print(f"  {chain}: known-blocked (bot-walled from CI IPs), retrying nightly - not alerted")
                 continue
             stale.append(f"{chain} (no valid completion marker)")
             continue
