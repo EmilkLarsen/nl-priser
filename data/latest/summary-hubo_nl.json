@@ -1,9 +1,8 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "chains": {
   "hubo_nl": {
-   "error": "collapse guard: 0 rows vs 15966 before",
-   "kept_previous": true
+   "error": "RuntimeError: hubo_nl discovery: all 17/17 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
   }
  }
 }
