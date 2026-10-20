@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "chains": {
   "bouwmaat_nl": {
    "error": "RuntimeError: bouwmaat_nl discovery: all 55/55 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
