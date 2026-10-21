@@ -2,11 +2,11 @@
  "date": "2026-10-21",
  "total_rows": 64442,
  "chains": {
-  "hubo_nl": {
-   "error": "RuntimeError: hubo_nl discovery: all 17/17 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
-  },
   "bouwmaat_nl": {
    "error": "RuntimeError: bouwmaat_nl discovery: all 55/55 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
+  },
+  "hubo_nl": {
+   "error": "RuntimeError: hubo_nl discovery: all 17/17 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
   }
  }
 }
