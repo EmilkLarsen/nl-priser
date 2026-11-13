@@ -1,5 +1,5 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "chains": {
   "hubo_nl": {
    "error": "RuntimeError: hubo_nl discovery: all 17/17 product sitemaps failed to fetch - CI IP likely blocked, not raising silently as an empty catalog"
